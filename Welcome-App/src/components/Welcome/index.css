@@ -1,0 +1,37 @@
+.bg-container {
+  display: flex;
+  justify-content: center;
+  min-height: 100vh;
+  background-color: #1e293b;
+}
+
+.content-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.heading {
+  color: #f0bb03;
+  font-family: bree serif;
+  font-size: 48px;
+}
+
+.description {
+  color: #ffffff;
+  font-family: bree serif;
+  font-size: 32px;
+  text-align: center;
+}
+
+.button {
+  background-color: #ffffff;
+  font-family: bree serif;
+  border-width: 0px;
+  color: #1e293b;
+  border-radius: 8px;
+  padding: 5px;
+  font-size: 18px;
+  width: 100px;
+}
